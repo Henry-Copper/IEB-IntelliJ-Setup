@@ -1,26 +1,22 @@
-Welcome to Lumache's documentation!
+**Setup IntelliJ for IEB examinations**
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
 
-Lumache has its documentation hosted on Read the Docs.
-
-this is a completely new and wonderful sentence
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This tutorial is *alive*. If you find any errors or unclear steps, please feel free to bother me about it:
+   klopperh@stpeterscollege.co.za
 
 Contents
 --------
 
 .. toctree::
 
-   usage
-   api
+   Installation
+   Creating your first project
+   Creating a new project
+   Printing and code tips
