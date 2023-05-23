@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 
 .. toctree::
 
-   Installation
+   usage
    Creating your first project
    Creating a new project
    Printing and code tips
