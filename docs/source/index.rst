@@ -11,9 +11,6 @@ how to :ref:`installation` the project.
    This tutorial is *alive*. If you find any errors or unclear steps, please feel free to bother me about it:
    klopperh@stpeterscollege.co.za
 
-Contents
---------
-
 .. toctree::
 
    Installation
