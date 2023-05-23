@@ -8,6 +8,8 @@ and offers a *simple* and *intuitive* API.
 
 Lumache has its documentation hosted on Read the Docs.
 
+this is a completely new and wonderful sentence
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
