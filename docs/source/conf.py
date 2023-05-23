@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'IEB IntelliJ Setup'
+copyright = '2023, Heinrich'
+author = 'Heinrich'
 
 release = '0.1'
 version = '0.1.0'
